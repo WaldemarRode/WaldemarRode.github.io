@@ -38,3 +38,11 @@ img {
   float: right;
 }
 
+heading {
+  align-items: center;
+  vertical-align: middle;
+}
+
+h1 {
+  color: white;
+}
