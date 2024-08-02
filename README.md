@@ -52,18 +52,18 @@ The homepage introduces the portfolio website. It contains a navigation bar with
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Home - Portfolio</title>
+    <title>Waldemar Rode</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
     <div class="navbar">
         <div class="left">
-            <a href="index.html">Home</a>
+            <a href="./">Home</a>
         </div>
         <div class="right">
-            <a href="about.html">About</a>
-            <a href="projects.html">Projects</a>
-            <a href="contact.html">Contact</a>
+            <a href="./aboutme">About</a>
+            <a href="./projects">Projects</a>
+            <a href="./contact">Contact</a>
             <a href="resume.pdf" target="_blank">Resume/CV</a>
         </div>
     </div>
@@ -89,18 +89,18 @@ The About page provides a brief description of the student, their background, an
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>About - Portfolio</title>
+    <title>About - Waldemar Rode</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
     <div class="navbar">
         <div class="left">
-            <a href="index.html">Home</a>
+            <a href="./">Home</a>
         </div>
         <div class="right">
-            <a href="about.html">About</a>
-            <a href="projects.html">Projects</a>
-            <a href="contact.html">Contact</a>
+            <a href="./aboutme">About</a>
+            <a href="./projects">Projects</a>
+            <a href="./contact">Contact</a>
             <a href="resume.pdf" target="_blank">Resume/CV</a>
         </div>
     </div>
@@ -126,19 +126,19 @@ The Projects page lists the student's projects, each with a brief description an
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Projects - Portfolio</title>
+    <title>Projects - Waldemar Rode</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
     <div class="navbar">
         <div class="left">
-            <a href="index.html">Home</a>
+            <a href="./">Home</a>
         </div>
         <div class="right">
-            <a href="about.html">About</a>
-            <a href="projects.html">Projects</a>
-            <a href="contact.html">Contact</a>
-            <a href="resume.pdf" target="_blank">Resume/CV</a>
+            <a href="./aboutme">About</a>
+            <a href="./projects">Projects</a>
+            <a href="./contact">Contact</a>
+            <a href="./resume.pdf" target="_blank">Resume/CV</a>
         </div>
     </div>
     <div class="content">
@@ -180,18 +180,18 @@ The Contact page provides the student's contact information and links to their L
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Contact - Portfolio</title>
+    <title>Contact - Waldemar Rode</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
     <div class="navbar">
         <div class="left">
-            <a href="index.html">Home</a>
+            <a href="./">Home</a>
         </div>
         <div class="right">
-            <a href="about.html">About</a>
-            <a href="projects.html">Projects</a>
-            <a href="contact.html">Contact</a>
+            <a href="./aboutme">About</a>
+            <a href="./projects">Projects</a>
+            <a href="./contact">Contact</a>
             <a href="resume.pdf" target="_blank">Resume/CV</a>
         </div>
     </div>
