@@ -1,26 +1,47 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-<title>Projects</title>
-<link rel="stylesheet" href="mystyle.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Projects - Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-<div class="navbar">
-    <a id="first" href="index.html">Waldemar Rode</a>
-    <a id="second" href="aboutme.html">About Me</a>
-    <a id="third" href="CV.pdf">Resume/CV</a>
-    <a id="fourth" href="projects.html">Projects</a>
-    <a id="fifth" href="contact.html">Contact</a>
-</div>
-
-<div class="projects">
-    <div class="text">
-        <h2>Click the image to view all my projects</h2>
+    <div class="navbar">
+        <div class="left">
+            <a href="index.html">Home</a>
+        </div>
+        <div class="right">
+            <a href="about.html">About</a>
+            <a href="projects.html">Projects</a>
+            <a href="contact.html">Contact</a>
+            <a href="resume.pdf" target="_blank">Resume/CV</a> <!-- Link to resume file -->
+        </div>
     </div>
-    <div class="image">
-        <a href="https://github.com/Doomer4?tab=repositories"><img src="githublogooo.jpg" alt="GitHub logo"></a>
+    <div class="content">
+        <div class="container">
+            <div class="section">
+                <h2>My Projects</h2>
+                <div class="project-item">
+                    <p><strong>Project 1:</strong> A web application for managing student records.</p>
+                    <a href="project1.html">
+                        <img src="project1.jpg" alt="Project 1 Image">
+                    </a>
+                </div>
+                <div class="project-item">
+                    <p><strong>Project 2:</strong> A mobile app for real-time public transport tracking.</p>
+                    <a href="project2.html">
+                        <img src="project2.jpg" alt="Project 2 Image">
+                    </a>
+                </div>
+                <div class="project-item">
+                    <p><strong>Project 3:</strong> A machine learning model for predicting student performance.</p>
+                    <a href="project3.html">
+                        <img src="project3.jpg" alt="Project 3 Image">
+                    </a>
+                </div>
+            </div>
+        </div>
     </div>
-</div>
-
 </body>
 </html>
