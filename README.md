@@ -31,12 +31,12 @@ The project directory contains the following files:
 ### File Descriptions
 
 - **index.html**: The homepage of the portfolio website.
-- **about.html**: The About page with information about the student.
+- **aboutme.html**: The About page with information about the student.
 - **projects.html**: The Projects page showcasing the student's projects.
 - **contact.html**: The Contact page with contact details.
-- **resume.pdf**: The student's resume/CV.
-- **styles.css**: The external CSS file for styling the website.
-- **project1.jpg, project2.jpg, project3.jpg**: Images used in the Projects page.
+- **CV.pdf**: The student's resume/CV.
+- **mystyle.css**: The external CSS file for styling the website.
+- **githublogooo.jpg**: Images used in the Projects page.
 
 ## Pages Description
 
@@ -51,7 +51,7 @@ The homepage introduces the portfolio website. It contains a navigation bar with
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Waldemar Rode</title>
-    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="mystyle.css">
 </head>
 <body>
     <div class="navbar">
@@ -62,7 +62,7 @@ The homepage introduces the portfolio website. It contains a navigation bar with
             <a href="./aboutme">About</a>
             <a href="./projects">Projects</a>
             <a href="./contact">Contact</a>
-            <a href="resume.pdf" target="_blank">Resume/CV</a>
+            <a href="CV.pdf" target="_blank">Resume/CV</a>
         </div>
     </div>
     <div class="content">
@@ -77,7 +77,7 @@ The homepage introduces the portfolio website. It contains a navigation bar with
 </html>
 ```
 
-### about.html
+### aboutme.html
 
 The About page provides a brief description of the student, their background, and their interests.
 
@@ -88,7 +88,7 @@ The About page provides a brief description of the student, their background, an
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>About - Waldemar Rode</title>
-    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="mystyle.css">
 </head>
 <body>
     <div class="navbar">
@@ -99,7 +99,7 @@ The About page provides a brief description of the student, their background, an
             <a href="./aboutme">About</a>
             <a href="./projects">Projects</a>
             <a href="./contact">Contact</a>
-            <a href="resume.pdf" target="_blank">Resume/CV</a>
+            <a href="CV.pdf" target="_blank">Resume/CV</a>
         </div>
     </div>
     <div class="content">
@@ -125,7 +125,7 @@ The Projects page lists the student's projects, each with a brief description an
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Projects - Waldemar Rode</title>
-    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="mystyle.css">
 </head>
 <body>
     <div class="navbar">
@@ -136,7 +136,7 @@ The Projects page lists the student's projects, each with a brief description an
             <a href="./aboutme">About</a>
             <a href="./projects">Projects</a>
             <a href="./contact">Contact</a>
-            <a href="./resume.pdf" target="_blank">Resume/CV</a>
+            <a href="CV.pdf" target="_blank">Resume/CV</a>
         </div>
     </div>
     <div class="content">
@@ -145,7 +145,7 @@ The Projects page lists the student's projects, each with a brief description an
                 <h2>My Projects</h2>
                 <div class="project-item">
                     <p><strong>Project 1:</strong>This Portfolio Website.</p>
-                    <a href="project1.html">
+                    <a href="https://github.com/WaldemarRode/WaldemarRode.github.io">
                         <img src="githublogooo.jpg" alt="Project 1 Image">
                     </a>
                 </div>
@@ -167,7 +167,7 @@ The Contact page provides the student's contact information and links to their L
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Contact - Waldemar Rode</title>
-    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="mystyle.css">
 </head>
 <body>
     <div class="navbar">
@@ -178,7 +178,7 @@ The Contact page provides the student's contact information and links to their L
             <a href="./aboutme">About</a>
             <a href="./projects">Projects</a>
             <a href="./contact">Contact</a>
-            <a href="resume.pdf" target="_blank">Resume/CV</a>
+            <a href="CV.pdf" target="_blank">Resume/CV</a>
         </div>
     </div>
     <div class="content">
@@ -186,7 +186,7 @@ The Contact page provides the student's contact information and links to their L
             <div class="section">
                 <h2>Contact Me</h2>
                 <p>If you would like to get in touch, please feel free to reach out via email or connect with me on LinkedIn.</p>
-                <p>Email: <a href="mailto:rodewaldemar2@gmail.com">rodewaldemar2@gmail.com</a>@gmail.com</p>
+                <p>Email: <a href="mailto:rodewaldemar2@gmail.com">rodewaldemar2@gmail.com</a></p>
                 <p>LinkedIn: <a href="www.linkedin.com/in/waldemar-rode-49a7b8272" target="_blank">www.linkedin.com/in/waldemar-rode-49a7b8272</a></p>
             </div>
         </div>
