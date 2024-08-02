@@ -71,7 +71,7 @@ The homepage introduces the portfolio website. It contains a navigation bar with
         <div class="container">
             <div class="heading">
                 <h1>Welcome to My Portfolio</h1>
-                <p>This is a simple webpage with a navigation bar at the top and some text content below it. You can add more content and style it as needed.</p>
+                <p>I am Waldemar Rode, a 3rd year student at North-West University</p>
             </div>
         </div>
     </div>
@@ -146,21 +146,9 @@ The Projects page lists the student's projects, each with a brief description an
             <div class="section">
                 <h2>My Projects</h2>
                 <div class="project-item">
-                    <p><strong>Project 1:</strong> A web application for managing student records.</p>
+                    <p><strong>Project 1:</strong>This Portfolio Website.</p>
                     <a href="project1.html">
-                        <img src="project1.jpg" alt="Project 1 Image">
-                    </a>
-                </div>
-                <div class="project-item">
-                    <p><strong>Project 2:</strong> A mobile app for real-time public transport tracking.</p>
-                    <a href="project2.html">
-                        <img src="project2.jpg" alt="Project 2 Image">
-                    </a>
-                </div>
-                <div class="project-item">
-                    <p><strong>Project 3:</strong> A machine learning model for predicting student performance.</p>
-                    <a href="project3.html">
-                        <img src="project3.jpg" alt="Project 3 Image">
+                        <img src="githublogooo.jpg" alt="Project 1 Image">
                     </a>
                 </div>
             </div>
