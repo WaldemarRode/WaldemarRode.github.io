@@ -20,14 +20,12 @@ The project directory contains the following files:
 ```
 /portfolio-website
 |-- index.html
-|-- about.html
+|-- aboutme.html
 |-- projects.html
 |-- contact.html
-|-- resume.pdf
-|-- styles.css
-|-- project1.jpg
-|-- project2.jpg
-|-- project3.jpg
+|-- CV.pdf
+|-- mystyle.css
+|-- githublogooo.jpg
 ```
 
 ### File Descriptions
