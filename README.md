@@ -284,11 +284,11 @@ body {
 
 ## Images
 
-Replace placeholder images (`project1.jpg`, `project2.jpg`, `project3.jpg`) with your own project images. Ensure the images are optimized for web usage.
+Replace placeholder image (`githublogooo.jpg`) with your own project image. Ensure the image is optimized for web usage.
 
 ## Resume/CV
 
-Place your `resume.pdf` file in the root directory of your project. The link in the navigation bar will open this file in a new tab.
+Place your `CV.pdf` file in the root directory of your project. The link in the navigation bar will open this file in a new tab.
 
 ## Setup and Deployment
 
