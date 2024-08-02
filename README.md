@@ -188,8 +188,8 @@ The Contact page provides the student's contact information and links to their L
             <div class="section">
                 <h2>Contact Me</h2>
                 <p>If you would like to get in touch, please feel free to reach out via email or connect with me on LinkedIn.</p>
-                <p>Email: student@example.com</p>
-                <p>LinkedIn: <a href="https://www.linkedin.com/in/student" target="_blank">https://www.linkedin.com/in/student</a></p>
+                <p>Email: <a href="mailto:rodewaldemar2@gmail.com">rodewaldemar2@gmail.com</a>@gmail.com</p>
+                <p>LinkedIn: <a href="www.linkedin.com/in/waldemar-rode-49a7b8272" target="_blank">www.linkedin.com/in/waldemar-rode-49a7b8272</a></p>
             </div>
         </div>
     </div>
